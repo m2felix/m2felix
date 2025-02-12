@@ -22,7 +22,7 @@ Tools: Git, GitHub, VS Code
 I'm always eager to learn, collaborate, and contribute to projects in cybersecurity, AI, and data science. Check out my repositories and feel free to connect!
 
 ## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
 www.linkedin.com/in/mike-felix-a9b310331
 
 # 💻Tech Stack
